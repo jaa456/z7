@@ -20,6 +20,14 @@
 </form>
 <p>Brak konta? <a href="rejestruj.php">Zarejestruj się !</a></p>
 <hr>
+<p>Repozytorium Git'a: <a href="https://github.com/jaa456/z7" target="blanc">Tutaj</a></p>
+<hr>
+<p>Schemat modelu bazy danych: <a href="diagram.html">Tutaj</a></p>
+<hr>
+<p>Mapa portalu: <a href="sitemap.xml" target="blanc">Tutaj</a></p>
+<hr>
+<p>Analiza serwisu: <a href="https://webspeed.intensys.pl/wyniki/135323/" target="blanc">Tutaj</a></p>
+<hr>
 </center>
 </body>
 </html>

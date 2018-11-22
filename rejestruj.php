@@ -40,7 +40,6 @@ if (IsSet($_POST['nick'])) {
     $n=$_POST['nick'];
     $h=$_POST['haslo'];
     $dodaj="INSERT INTO users VALUES (NULL,'$n', '$h')";
-    echo $dodaj;
     mysqli_query($polaczenie, $dodaj);
     mysqli_close($polaczenie);
     mkdir ("users/$n", 0777);
